@@ -203,7 +203,7 @@ export const projects = [
     description:
       "Nexora is a notes app built with Next.js and Firebase, allowing users to create, store, and edit notes in a simple, organized, and intuitive interface.",
     href: "",
-    image: "/assets/projects/apple-tech-store.jpg",
+    image: "/Project-pics/nexora-act.jpg",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
       { id: 1, name: "Next.js" },
