@@ -55,16 +55,16 @@ const Contact = () => {
               sakthibala31072004@gmail.com
             </p>
           </div>
-          {/*  */}
-          <div className="social-link">
+
+          {/* phone */}
+           {/* <div className="social-link">
             <h2>Phone</h2>
-            {/* line */}
             <div className="w-full h-px my-2 bg-white/30" />
-            {/*  */}
+            
             <p className="text-xl lowercase md:text-2xl lg:text-3xl">
               8870969088
             </p>
-          </div>
+          </div> */}
           {/* next-title */}
           <div className="social-link">
             <h2>Social Media</h2>

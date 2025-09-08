@@ -171,7 +171,7 @@ export const projects = [
     description:
       "Caffiend is a coffee tracking app built with React.js and Firebase, helping users log, track, and explore their favorite brews in a simple, engaging, and user-friendly interface.",
     href: "",
-    image: "/assets/projects/mobile-accessories-store.jpg",
+    image: "/Project-pics/caffiend-snap.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
       { id: 1, name: "React.js" },
@@ -188,7 +188,7 @@ export const projects = [
     description:
       "Copacetic is an interactive vocabulary app built with React.js, helping users master words through spaced repetition in a simple, engaging, and user-friendly interface.",
     href: "",
-    image: "/assets/projects/plant-shop.jpg",
+    image: "/Project-pics/Copacetic-snap.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
       { id: 1, name: "React.js" },
@@ -218,7 +218,7 @@ export const projects = [
     description:
       "Mojito is a landing page built with React and GSAP, showcasing a cocktail store with engaging animations and an interactive, visually appealing interface.",
     href: "",
-    image: "/assets/projects/electronics-store.jpg",
+    image: "/Project-pics/Mojito-snap.png",
     bgImage: "/assets/backgrounds/poster.jpg",
     frameworks: [
       { id: 1, name: "React.js" },
@@ -233,7 +233,7 @@ export const projects = [
     description:
       "Pokedex is a React app using API and local storage, allowing users to browse, search, and manage Pokémon in a simple and interactive interface.",
     href: "",
-    image: "/assets/projects/home-decor-store.jpg",
+    image: "/Project-pics/pokedex-snap.png",
     bgImage: "/assets/backgrounds/table.jpg",
     frameworks: [
       { id: 1, name: "React.js" },
@@ -259,11 +259,11 @@ export const projects = [
   // },
 ];
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/ali.sanatidev/reels/" },
-  {
-    name: "Youtube",
-    href: "https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA",
-  },
-  { name: "LinkedIn", href: "https://www.linkedin.com/in/ali-sanati/" },
-  { name: "GitHub", href: "https://github.com/Ali-Sanati" },
+  // { name: "Instagram", href: "https://www.instagram.com/ali.sanatidev/reels/" },
+  // {
+  //   name: "Youtube",
+  //   href: "https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA",
+  // },
+  { name: "LinkedIn", href: "www.linkedin.com/in/sakthibala-p-77a845376" },
+  { name: "GitHub", href: "https://github.com/SakthiBala3107/" },
 ];

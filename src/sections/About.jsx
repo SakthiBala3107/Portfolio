@@ -59,7 +59,7 @@ const About = () => {
       <div className="flex flex-col items-center justify-between gap-16 px-10 pb-16 text-xl font-light tracking-wide lg:flex-row md:text-2xl lg:text-3xl text-white/60">
         <img
           ref={imgRef}
-          src="images/man.jpg"
+          src="/images/sakthibala-profile-phot.jpeg"
           alt="man"
           className="w-md rounder-3xl"
         />
