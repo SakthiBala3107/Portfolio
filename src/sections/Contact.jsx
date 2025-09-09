@@ -57,7 +57,7 @@ const Contact = () => {
           </div>
 
           {/* phone */}
-           {/* <div className="social-link">
+          {/* <div className="social-link">
             <h2>Phone</h2>
             <div className="w-full h-px my-2 bg-white/30" />
             
@@ -74,7 +74,9 @@ const Contact = () => {
             <div className="flex flex-wrap gap-2">
               {socials.map((social, idx) => (
                 <a
-                href={social.href}
+                  href={social.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   key={idx}
                   className="text-xs leading-loose tracking-wides uppercase md:text-sm hover:text-white/80 transition-colors duration-200"
                 >
