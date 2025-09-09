@@ -264,6 +264,6 @@ export const socials = [
   //   name: "Youtube",
   //   href: "https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA",
   // },
-  { name: "LinkedIn", href: "www.linkedin.com/in/sakthibala3107/" },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/sakthibala3107/" },
   { name: "GitHub", href: "https://github.com/SakthiBala3107/" },
 ];
